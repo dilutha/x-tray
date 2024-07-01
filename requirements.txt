@@ -139,7 +139,7 @@ wcwidth==0.2.13
 Werkzeug==3.0.3
 wheel==0.43.0
 widgetsnbextension==4.0.11
-wrapt==1.16.0
+wrapt
 yarl==1.9.4
 zipp==3.19.2
 zstandard==0.22.0
